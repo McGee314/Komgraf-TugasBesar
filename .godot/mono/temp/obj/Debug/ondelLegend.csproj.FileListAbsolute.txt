@@ -1,0 +1,36 @@
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.deps.json
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.runtimeconfig.json
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.dll
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.pdb
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/GodotSharp.dll
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.csproj.AssemblyReference.cache
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.AssemblyInfoInputs.cache
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.AssemblyInfo.cs
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.csproj.CoreCompileInputs.cache
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.sourcelink.json
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLeg.85CEBC90.Up2Date
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.dll
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/refint/ondelLegend.dll
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.pdb
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.genruntimeconfig.cache
+C:/Users/samud/Test/ZombieLevel/.godot/mono/temp/obj/Debug/ref/ondelLegend.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.deps.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.runtimeconfig.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/ondelLegend.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.csproj.AssemblyReference.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.AssemblyInfoInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.AssemblyInfo.cs
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.csproj.CoreCompileInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.sourcelink.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLeg.85CEBC90.Up2Date
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/refint/ondelLegend.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ondelLegend.genruntimeconfig.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/.godot/mono/temp/obj/Debug/ref/ondelLegend.dll

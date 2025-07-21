@@ -388,4 +388,3 @@ func _on_set_optimization_dist_max(value : float):
 	optimization_dist_max = value
 	if _material != null:
 		_material.set_shader_parameter("optimization_dist_max", optimization_dist_max)
-

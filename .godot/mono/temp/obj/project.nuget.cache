@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQtXijXCBc0=",
+  "success": true,
+  "projectFilePath": "/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/Tugas besar EAS/ZombieLevel/ondelLegend.csproj",
+  "expectedPackageFiles": [
+    "/Users/samudera/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

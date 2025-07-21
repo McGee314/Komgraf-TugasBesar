@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bx50g6quhpe1g"]
+
+[ext_resource type="PackedScene" uid="uid://dx241tmn7slwd" path="res://Char/Little_Imp_0618122723_texture.glb" id="1_nbyca"]
+
+[node name="Little_Imp_0618122723_texture" instance=ExtResource("1_nbyca")]

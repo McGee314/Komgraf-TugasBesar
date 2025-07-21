@@ -1,0 +1,5 @@
+[folding]
+
+node_unfolds=[NodePath("."), PackedStringArray("Transform"), NodePath("CollisionShape3D"), PackedStringArray("Transform"), NodePath("rig"), PackedStringArray("Transform"), NodePath("rig/Skeleton3D"), PackedStringArray("bones"), NodePath("AnimationTree"), PackedStringArray("tree_root", "parameters", "parameters/conditions")]
+resource_unfolds=["res://Scenes/animationCombine.tscn::CapsuleShape3D_c0qx5", PackedStringArray(), "res://Scenes/animationCombine.tscn::ArrayMesh_s71wd", PackedStringArray(), "res://Scenes/animationCombine.tscn::Skin_dvyq8", PackedStringArray(), "res://Scenes/animationCombine.tscn::AnimationNodeStateMachine_v0yjb", PackedStringArray()]
+nodes_folded=[]

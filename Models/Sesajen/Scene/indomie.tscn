@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://dsysv42ladqea"]
+
+[ext_resource type="PackedScene" uid="uid://cfeor44f87us4" path="res://Models/Sesajen/indomie.glb" id="1_651xf"]
+[ext_resource type="Script" path="res://Scripts/Indomie.cs" id="2_ouof7"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6qewd"]
+
+[node name="indomie" instance=ExtResource("1_651xf")]
+transform = Transform3D(-2.18557e-08, -0.5, 0, 0.5, -2.18557e-08, 0, 0, 0, 0.5, 0, 0, 0)
+script = ExtResource("2_ouof7")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." index="0"]
+shape = SubResource("BoxShape3D_6qewd")
+
+[node name="SpotLight3D" type="SpotLight3D" parent="." index="2"]
+transform = Transform3D(0.286156, -0.364117, 1.94564, -1.97942, -0.0526388, 0.281273, 0, -1.96587, -0.367903, 6.90186, 0.503807, -2.08169)
+light_energy = 4.2
+spot_range = 4.965
+spot_attenuation = -0.62
+spot_angle = 18.27

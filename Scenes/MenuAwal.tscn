@@ -1,0 +1,46 @@
+[gd_scene load_steps=3 format=3 uid="uid://dd6gffhmrkv8u"]
+
+[ext_resource type="Script" path="res://Scripts/MenuAwal.cs" id="1_aig7h"]
+[ext_resource type="Texture2D" uid="uid://b6x13h0ek1pnf" path="res://Models/images.jpg" id="2_gahxf"]
+
+[node name="MenuAwal" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_aig7h")
+
+[node name="StartButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 753.0
+offset_top = 479.0
+offset_right = 1146.0
+offset_bottom = 617.0
+theme_override_font_sizes/font_size = 76
+text = "Start"
+
+[node name="AboutButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 749.0
+offset_top = 652.0
+offset_right = 1148.0
+offset_bottom = 788.0
+theme_override_font_sizes/font_size = 76
+text = "About
+"
+
+[node name="ExitButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 746.0
+offset_top = 819.0
+offset_right = 1151.0
+offset_bottom = 939.0
+theme_override_font_sizes/font_size = 81
+text = "Exit
+"
+
+[node name="Images" type="Sprite2D" parent="."]
+position = Vector2(935, 229)
+scale = Vector2(2.19142, 1.8827)
+texture = ExtResource("2_gahxf")
+
+[connection signal="pressed" from="StartButton" to="." method="OnStartButtonPressed"]
+[connection signal="pressed" from="ExitButton" to="." method="OnExitButtonPressed"]

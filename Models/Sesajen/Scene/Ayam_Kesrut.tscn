@@ -1,0 +1,12 @@
+[gd_scene load_steps=4 format=3 uid="uid://chs13outfm7e4"]
+
+[ext_resource type="PackedScene" uid="uid://b8tmokrmat06y" path="res://Models/Sesajen/ayam_kesrut.glb" id="1_cgjrw"]
+[ext_resource type="Script" path="res://Scripts/AyamKesrut.cs" id="2_kbn20"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_qf2d8"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_cgjrw")]
+script = ExtResource("2_kbn20")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." index="1"]
+shape = SubResource("BoxShape3D_qf2d8")

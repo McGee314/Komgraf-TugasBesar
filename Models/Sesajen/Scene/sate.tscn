@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://de31kno80mrk2"]
+
+[ext_resource type="PackedScene" uid="uid://5n4xegjfu7kw" path="res://Models/Sesajen/sate_makanan_khas_indonesia.glb" id="1_cojgo"]
+[ext_resource type="Script" path="res://Scripts/Sate.cs" id="2_rtfk8"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_d1eio"]
+
+[node name="sate_makanan_khas_indonesia" instance=ExtResource("1_cojgo")]
+script = ExtResource("2_rtfk8")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." index="1"]
+shape = SubResource("BoxShape3D_d1eio")
+
+[node name="SpotLight3D" type="SpotLight3D" parent="." index="2"]
+transform = Transform3D(1, 0, 0, 0, -0.183951, 0.982935, 0, -0.982935, -0.183951, -0.071681, 2.41974, -0.446431)
+light_energy = 4.2
+spot_range = 3.024
+spot_attenuation = -4.99
+spot_angle = 18.27
